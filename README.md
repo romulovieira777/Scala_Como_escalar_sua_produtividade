@@ -7,3 +7,4 @@
 - [Capítulo 05 - Hierarquia das Classes Básicas da Linguagem](https://github.com/romulovieira777/Scala_Como_escalar_sua_produtividade/tree/main/Cap%C3%ADtulo%2005%20-%20Hierarquia%20das%20Classes%20B%C3%A1sicas%20da%20Linguagem)
 - [Capítulo 06 - Coleções](https://github.com/romulovieira777/Scala_Como_escalar_sua_produtividade/tree/main/Cap%C3%ADtulo%2006%20-%20Cole%C3%A7%C3%B5es)
 - [Capítulo 07 - Programação Funcional](https://github.com/romulovieira777/Scala_Como_escalar_sua_produtividade/tree/main/Cap%C3%ADtulo%2007%20-%20Programa%C3%A7%C3%A3o%20Funcional )
+- [Capítulo 08 - Tipagem Avançada](https://github.com/romulovieira777/Scala_Como_escalar_sua_produtividade/tree/main/Cap%C3%ADtulo%2008%20-%20Tipagem%20Avan%C3%A7ada)
