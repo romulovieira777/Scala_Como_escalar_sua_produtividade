@@ -10,5 +10,5 @@
 - [Capítulo 08 - Tipagem Avançada](https://github.com/romulovieira777/Scala_Como_escalar_sua_produtividade/tree/main/Cap%C3%ADtulo%2008%20-%20Tipagem%20Avan%C3%A7ada)
 - [Capítulo 09 - Um pouco de Açúcar - For Comprehensions](https://github.com/romulovieira777/Scala_Como_escalar_sua_produtividade/tree/main/Cap%C3%ADtulo%2009%20-%20Um%20pouco%20de%20A%C3%A7%C3%BAcar%20-%20For%20Comprehensions)
 - [Capítulo 10 - Classes Abstratas e Traits](https://github.com/romulovieira777/Scala_Como_escalar_sua_produtividade/tree/main/Cap%C3%ADtulo%2010%20-%20Classes%20Abstratas%20e%20Traits)
-- [Capítulo 10 - Parseando XML]()
+- [Capítulo 11 - Parseando XML](https://github.com/romulovieira777/Scala_Como_escalar_sua_produtividade/tree/main/Cap%C3%ADtulo%2011%20-%20Parseando%20XML)
 
